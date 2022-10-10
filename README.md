@@ -32,7 +32,7 @@ Os alunos que vão para além do expectavel irão receber valores extra e isto i
 
 ## Contexto do Jogo
 
-O jogo *Dragon Adventure* segue um modelo clássico de jogos de *role-play* onde o jogador controllar um grupo de aventureiros com uma serie de características diferentes (i.e. classes). A sua tarefa inicial será implementar um sistema de combate estratégico simples onde o jogador controlla cada personagem do seu grupo de aventureiros contra os monstros do *feiticeiro demoníaco*. 
+O jogo *Dragon Adventure* segue um modelo clássico de jogos de *role-play* onde o jogador controla um grupo de aventureiros com uma serie de características diferentes (i.e. classes). A sua tarefa inicial será implementar um sistema de combate estratégico simples onde o jogador controla cada personagem do seu grupo de aventureiros contra os monstros do *feiticeiro demoníaco*. 
 
 ### Caracteristicas dos Personagens
 Cada aventureiro ou monstro têm todas as mesmas caracteristicas base que inclui:
@@ -44,7 +44,7 @@ Cada aventureiro ou monstro têm todas as mesmas caracteristicas base que inclui
  - Initiative (Init): Simboliza a rapidez que este personagem tem em fazer uma acção
 
 ### Fluxo do Combate
-As mecânicas de combate segue um sistema de rondas que se irá desenrolar até que um dos lados perder todos os personagens que tem sob o seu controlo, i.e. todos os personagens do jogador ou feiticeiro ficaram com o seu  ```HP <= 0 ```
+As mecânicas de combate seguem um sistema de rondas que se irá desenrolar até que um dos lados perder todos os personagens que tem sob o seu controlo, i.e. todos os personagens do jogador ou feiticeiro ficaram com o seu  ```HP <= 0 ```
 
 Cada ronda consiste em duas fases:
  - Initiative Phase
