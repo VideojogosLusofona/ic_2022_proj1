@@ -3,33 +3,6 @@
 ## Introdução 
 Todos os grupos devem implementar em Python um sistema de combate por turnos no estilo clássico *Dungeons & Dragons* com as mecânicas descritas abaixo. O jogo irá usar apenas a linha de comandos e descrições de texto.
 
-## Objetivo do Projeto
-O objetivo deste projeto é implementar o sistema de combate descrito abaixo usando o Python e a linha de comandos. Este projeto serve para desafiar todos os conceitos dados ao longo das aulas de IC e verificar se os alunos têm um bom domínio sobre os conceitos.
-
-### Desafios do Projeto
-
- - Sistemas de Logica, Aritmética e Relacional
- - Variaveis e Estrutura de Dados
- - O Fluxo de um Jogo
- - Utilização do Git
- - Documentação
- - Sensibilidade e Boas Práticas de Interação com o Utilizador
- - Python - Os Primeiros Passos
-
-### Pontuação Extra
-
-**Importante**: Façam o minimo requerido primeiro antes de tentarem fazer mais funcionalidades!!!
-
-O requisito minimo do projeto é implementar o sistema de combate descrito com as duas personagens do jogador descritas e no minimo 4 inimigos (i.e. 4 x Orc Warrios). 
-
-Os alunos que vão para além do expectavel irão receber valores extra e isto inclui:
- - Sensibilidade para a usabilidade entre Jogador e Jogo
- - Implementação de mais personagens
- - Implementação de mais variabilidade de inimigos
- - Implementação de Sistema de Magia para Inimigos
- - Implementação de mais Feitiços
- - Implementação de mais mecânicas de combate (e.g. Defend, Damage over Time, etc.).
-
 ## Contexto do Jogo
 
 O jogo *Dragon Adventure* segue um modelo clássico de jogos de *role-play* onde o jogador controla um grupo de aventureiros com uma serie de características diferentes (i.e. classes). A sua tarefa inicial será implementar um sistema de combate estratégico simples onde o jogador controla cada personagem do seu grupo de aventureiros contra os monstros do *feiticeiro demoníaco*. 
@@ -178,8 +151,34 @@ _N = 10 x O1 x O2 x O3 x O4 x O5 x D_
 
 Em que _D_ corresponde à nota da discussão e percentagem equitativa de realização do projeto, também entre 0 e 1. Isto significa que se os alunos ignorarem completamente um dos objetivos, não tenham feito nada no projeto ou não comparecerem na discussão, a nota final será zero.
 
+### Desafios do Projeto
+
+ - Sistemas de Logica, Aritmética e Relacional
+ - Variaveis e Estrutura de Dados
+ - O Fluxo de um Jogo
+ - Utilização do Git
+ - Documentação
+ - Sensibilidade e Boas Práticas de Interação com o Utilizador
+ - Python - Os Primeiros Passos
+
+### Requesito Mínimo do Projeto
+
+O requisito minimo do projeto é implementar o sistema de combate descrito (com interação e resposta do sistema) com as duas personagens do jogador (Warrior + Priest) e no minimo 4 inimigos (i.e. 4 x Orc Warrios). 
+
+### Pontuação Extra
+
+**Importante**: Façam o minimo requerido primeiro antes de tentarem fazer mais funcionalidades!!!
+
+Os alunos que vão para além do expectavel irão receber valores extra e isto inclui:
+ - Sensibilidade para a usabilidade entre Jogador e Jogo
+ - Implementação de mais personagens
+ - Implementação de mais variabilidade de inimigos
+ - Implementação de Sistema de Magia para Inimigos
+ - Implementação de mais Feitiços
+ - Implementação de mais mecânicas de combate (e.g. Defend, Damage over Time, etc.).
+
 ## Entrega
-O projeto deve ser entregue por **grupos de 2 alunos** via Moodle até às **A DEFINIR**. Um (e apenas um) dos elementos do grupo deve ser submeter um ficheiro `zip` com a solução completa, nomeadamente:
+O projeto deve ser entregue por **grupos de 2 alunos** via Moodle até às **A DEFENIR**. Um (e apenas um) dos elementos do grupo deve ser submeter um ficheiro `zip` com a solução completa, nomeadamente:
 
 -   Pasta escondida `.git` com o repositório Git local do projeto.
 -   Pasta do projeto, contendo os ficheiros todos deste.
