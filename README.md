@@ -120,6 +120,24 @@ Durante o jogo é importante realçar informações chave para saber o que se pa
 
 No fim de contas o jogo tem que estar jogável!
 
+### Exemplos - Text-based RPG Interfaces
+O vosso jogo deve ter uma interface de texto, semelhante à dos tradicionais *text-based RPGs*. **Atenção:** Estes jogos são bastante mais complexos do que o projeto onde apenas vos é pedido para implementarem o sistema de combate.
+
+#### [ZORK](http://textadventures.co.uk/games/view/5zyoqrsugeopel3ffhz_vq/zork)
+"Many strange tales have been told of the fabulous treasure, exotic creatures, and diabolical puzzles in the Great Underground Empire. As an aspiring adventurer, you will undoubtedly want to locate these treasures and deposit them in your trophy case." - *Z-Files Catalog*
+
+![Zork Interface](https://github.com/ajpessoa/test-repo/blob/master/Zork.png)
+
+#### [Genesis](https://www.genesismud.org/play/)
+"When most kids were playing Nintendo 8bit a few pioneer gamers already engaged in global guild wars on a pretty unknown place called The Internet." - *genesismud.org*
+
+![Genesis Interface](https://github.com/ajpessoa/test-repo/blob/master/Genesis.png)
+
+#### [Written Realms](https://writtenrealms.com)
+"Build and play narrative adventure games. To play through a small introduction world, click the Play button above. Once you fight your way out of the cave, you will be taken to Edeus, the multiplayer world where more adventure awaits." - *WrittenRealms*
+
+![Written Realms Interface](https://github.com/ajpessoa/test-repo/blob/master/WrittenRealms.png)
+
 ## Objetivos e Critério de Avaliação
 
 Este projeto tem os seguintes objetivos:
