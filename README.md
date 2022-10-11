@@ -196,7 +196,7 @@ Os alunos que vão para além do expectavel irão receber valores extra e isto i
  - Implementação de mais mecânicas de combate (e.g. Defend, Damage over Time, etc.).
 
 ## Entrega
-O projeto deve ser entregue por **grupos de 2 alunos** via Moodle até às **23:00 do dia 13 de Novembro 2022**. Um (e apenas um) dos elementos do grupo deve ser submeter um ficheiro `zip` com a solução completa, nomeadamente:
+O projeto deve ser entregue por **grupos de 2 alunos** via Moodle até às **23:00** do dia **13 de Novembro 2022**. Um (e apenas um) dos elementos do grupo deve ser submeter um ficheiro `zip` com a solução completa, nomeadamente:
 
 -   Pasta escondida `.git` com o repositório Git local do projeto.
 -   Pasta do projeto, contendo os ficheiros todos deste.
