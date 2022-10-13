@@ -35,7 +35,7 @@ O personagem com o TurnOrder mais elevado é o que começa a ronda, seguido pelo
 ### Action Phase
 Após terminar a fase de iniciativa, começa a fase de acção. Esta fase irá percorrer cada personagem seguindo a ordem definida no **TurnOrder**. O jogador toma controlo de cada aventureiro, enquanto o feiticeiro toma controlo de cada monstro.
 
-Na sua vez cada personagem pode fazer uma de três acções:
+Na sua vez cada personagem pode fazer uma de duas acções:
 
  - Attack
  - Magic
